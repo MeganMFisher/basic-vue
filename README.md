@@ -49,7 +49,7 @@
 * Import it into your App.vue file at the top of/but still within the script tags. 
 
     ```
-    import TodoList from './components/NewComponent'  
+    import NewComponent from './components/NewComponent'  
     ```
 
 * Add a reference to the component in the components property
